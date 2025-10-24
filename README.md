@@ -28,6 +28,6 @@ Estes foram os principais achados:
 
 E assim ficou a arquitetura que montei baseado nos dados extraidos:
 
-<img src="./mapeamento.png" alt="Diagrama da Arquitetura do site">
+![Arquitetura do Site](./mapeamento.png)
 
 Enfim, essa foi boa parte do trabalho. Foi muito legal planejar tudo e quebrar a cabeça para entender a lógica do site. (Como fã de SoulsLike, essa foi a parte boa!)

@@ -5,7 +5,6 @@
 
 from scrapy import Item, Field
 
-
 class LinkGraphItem(Item):
     pagina_origem = Field()
     links_destino = Field()
